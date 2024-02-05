@@ -4,18 +4,18 @@ Submitted by: Leonardo Astorga
 
 ## App Brainstorming 
 Todoist: 
-- a lot of integrations
-- quick add feature
+a lot of integrations
+quick add feature
 Youtube:
-- share youtube videos
-- create playlist feature
+share youtube videos
+create playlist feature
 Notion:
-- embedded templates
-- knowledgment management 
+embedded templates
+knowledgment management 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Leonardo Astorga]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
